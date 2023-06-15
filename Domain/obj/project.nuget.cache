@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oAEA69XZHp/wzX6XjPmCCQaM6iySscQNDtRhEOxk/OnC0gGq9H/Z5Qzei9B1dfc4ypxjDrTt/s0HImRb0DbSdg==",
+  "success": true,
+  "projectFilePath": "/Users/ezer/Developer/Projects/Personnal/Systems/Kraft/Domain/Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/ezer/.nuget/packages/erroror/1.2.1/erroror.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

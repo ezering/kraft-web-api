@@ -1,0 +1,12 @@
+/Users/ezer/Developer/Projects/Personnal/Systems/Kraft/Domain/bin/Debug/net7.0/Domain.deps.json
+/Users/ezer/Developer/Projects/Personnal/Systems/Kraft/Domain/bin/Debug/net7.0/Domain.dll
+/Users/ezer/Developer/Projects/Personnal/Systems/Kraft/Domain/bin/Debug/net7.0/Domain.pdb
+/Users/ezer/Developer/Projects/Personnal/Systems/Kraft/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/Users/ezer/Developer/Projects/Personnal/Systems/Kraft/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ezer/Developer/Projects/Personnal/Systems/Kraft/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/Users/ezer/Developer/Projects/Personnal/Systems/Kraft/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/Users/ezer/Developer/Projects/Personnal/Systems/Kraft/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/Users/ezer/Developer/Projects/Personnal/Systems/Kraft/Domain/obj/Debug/net7.0/Domain.dll
+/Users/ezer/Developer/Projects/Personnal/Systems/Kraft/Domain/obj/Debug/net7.0/refint/Domain.dll
+/Users/ezer/Developer/Projects/Personnal/Systems/Kraft/Domain/obj/Debug/net7.0/Domain.pdb
+/Users/ezer/Developer/Projects/Personnal/Systems/Kraft/Domain/obj/Debug/net7.0/ref/Domain.dll

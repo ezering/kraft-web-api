@@ -1,0 +1,15 @@
+/Users/ezer/Developer/Projects/Personnal/Systems/Kraft/Application/bin/Debug/net7.0/Application.deps.json
+/Users/ezer/Developer/Projects/Personnal/Systems/Kraft/Application/bin/Debug/net7.0/Application.dll
+/Users/ezer/Developer/Projects/Personnal/Systems/Kraft/Application/bin/Debug/net7.0/Application.pdb
+/Users/ezer/Developer/Projects/Personnal/Systems/Kraft/Application/bin/Debug/net7.0/Domain.dll
+/Users/ezer/Developer/Projects/Personnal/Systems/Kraft/Application/bin/Debug/net7.0/Domain.pdb
+/Users/ezer/Developer/Projects/Personnal/Systems/Kraft/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+/Users/ezer/Developer/Projects/Personnal/Systems/Kraft/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ezer/Developer/Projects/Personnal/Systems/Kraft/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+/Users/ezer/Developer/Projects/Personnal/Systems/Kraft/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+/Users/ezer/Developer/Projects/Personnal/Systems/Kraft/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+/Users/ezer/Developer/Projects/Personnal/Systems/Kraft/Application/obj/Debug/net7.0/Application.csproj.CopyComplete
+/Users/ezer/Developer/Projects/Personnal/Systems/Kraft/Application/obj/Debug/net7.0/Application.dll
+/Users/ezer/Developer/Projects/Personnal/Systems/Kraft/Application/obj/Debug/net7.0/refint/Application.dll
+/Users/ezer/Developer/Projects/Personnal/Systems/Kraft/Application/obj/Debug/net7.0/Application.pdb
+/Users/ezer/Developer/Projects/Personnal/Systems/Kraft/Application/obj/Debug/net7.0/ref/Application.dll

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "CI8k+Iht3UdWQDhMdp4LZTFQZwrs7bA31T1OBUJh5gXFPAi8QFH+0YD8dQG1ePq5iucSIYGAHwHQsqV42jnhaQ==",
+  "success": true,
+  "projectFilePath": "/Users/ezer/Developer/Projects/Personnal/Systems/Kraft/Application/Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/ezer/.nuget/packages/erroror/1.2.1/erroror.1.2.1.nupkg.sha512",
+    "/Users/ezer/.nuget/packages/fluentvalidation/11.5.2/fluentvalidation.11.5.2.nupkg.sha512",
+    "/Users/ezer/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "/Users/ezer/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.5.1/fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "/Users/ezer/.nuget/packages/mediatr/12.0.1/mediatr.12.0.1.nupkg.sha512",
+    "/Users/ezer/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/ezer/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
